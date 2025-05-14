@@ -1,4 +1,6 @@
 flask
+flask-socketio
 openai-whisper
 torch
 ffmpeg-python
+gunicorn  # Recommended for deployment
